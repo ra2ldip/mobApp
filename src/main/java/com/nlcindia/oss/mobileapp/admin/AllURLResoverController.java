@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 /**
  *
- * @author ratul
+ * @author ratulSarkar
  */
 @Controller
 public class AllURLResoverController {
